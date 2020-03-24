@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UtilitiesCLX">
+      <HintPath>..\..\UtileriasCLX\ToolsCLX\MapDataTableToObj\bin\Debug\netcoreapp3.1\UtilitiesCLX.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
